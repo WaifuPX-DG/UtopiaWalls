@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/UtopiaWalls?style=for-the-badge)](https://github.com/WaifuPX-DG/UtopiaWalls/releases/latest)
 [![Canal en Telegram](https://img.shields.io/badge/Canal_Telegram-2CA5E0.svg?style=for-the-badge&logo=Telegram)](https://t.me/waifupx_official "Contact me in Telegram")
  
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/utopia.png)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Avatars/utopia.png)
 
 **Ir a** 
 

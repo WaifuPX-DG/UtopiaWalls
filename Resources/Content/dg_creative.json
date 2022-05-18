@@ -1,5 +1,19 @@
 [{
 	"author": "Galahad WPX",
+	"collections": "Material",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Tower",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my22/utopia_tower.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my22/utopia_tower.png"
+}, {
+	"author": "Galahad WPX",
+	"collections": "Material",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Tower Dark",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my22/utopia_tower_dark.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my22/utopia_tower_dark.png"
+}, {
+	"author": "Galahad WPX",
 	"collections": "Minimal",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "Doodle Color",

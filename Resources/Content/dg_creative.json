@@ -1,5 +1,19 @@
 [{
 	"author": "Khary_RG",
+	"collections": "Minimal",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Yellow",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jn22/utopia_yellow_th.jpg",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jn22/utopia_yellow.jpg"
+}, {
+	"author": "Galahad WPX",
+	"collections": "Abstract",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Reflect",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jn22/utopia_reflect.jpg",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jn22/utopia_reflect.jpg"
+}, {
+	"author": "Khary_RG",
 	"collections": "Material",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "Mtrl Corals",

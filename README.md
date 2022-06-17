@@ -1,5 +1,5 @@
 # UtopiaWalls
-[![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?color=%231a73e8style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms)
+[![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?color=%231a73e8style=for-the-badge)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=for-the-badge)](https://developer.android.com/studio/releases/platforms)
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/UtopiaWalls?color=%231a73e8&style=for-the-badge)](https://github.com/WaifuPX-DG/UtopiaWalls/releases/latest)
 
  

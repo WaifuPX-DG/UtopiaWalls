@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/UtopiaWalls?style=for-the-badge)](https://github.com/WaifuPX-DG/UtopiaWalls/releases/latest)
 
  
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Avatars/utopia.png)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Avatars/banner_utopia.png)
 
 **Ir a** 
 

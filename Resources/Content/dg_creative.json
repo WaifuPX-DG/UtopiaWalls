@@ -1,4 +1,39 @@
 [{
+        "author": "Galahad WPX",
+	"collections": "Amoled",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Lens",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/utopia_lens_th.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/utopia_lens.png"
+}, {
+        "author": "Galahad WPX",
+	"collections": "Material",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Curve",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_curve.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_curve.png"
+}, {
+        "author": "Khary_RG",
+	"collections": "Material",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Heart Pattern Dark",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_heart_dark.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_heart_dark.png"
+}, {
+        "author": "Khary_RG",
+	"collections": "Material",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Heart Pattern",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_heart.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_heart.png"
+}, {
+        "author": "Galahad WPX",
+	"collections": "Material",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Shapes",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/shapes.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/shapes.png"
+}, {
 	"author": "Khary_RG",
 	"collections": "Floral",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",

@@ -3,12 +3,14 @@
 	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "CandyCane",
+        "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_candycane.png"
 }, {
         "author": "Khary_RG",
 	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "CandyCane Dark",
+        "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_candycanedark.png"
 }, {
         "author": "Galahad WPX",
@@ -29,28 +31,32 @@
 	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "Snowflake",
+        "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_snowflake.png"
 }, {
         "author": "Khary_RG",
 	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "Christmas Lights",
+        "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_lightsline.png"
 }, {
         "author": "Khary_RG",
 	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
-	"name": "Snow Dark",
+	"name": "Snow",
+        "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_snow_light.png"
 }, {
         "author": "Khary_RG",
-	"collections": "Minimal",
+	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "Snow Dark",
+        "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_snow_dark.png"
 }, {
         "author": "Khary_RG",
-	"collections": "Temporada",
+	"collections": "Minimal",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "Cat Alt",
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_cat2.png"

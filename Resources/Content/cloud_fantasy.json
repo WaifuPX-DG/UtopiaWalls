@@ -1,23 +1,23 @@
 
 [{
-        "author": "Khary_RG",
+        "author": "UtopiaWalls App",
 	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "CandyCane",
         "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_candycane.png"
 }, {
-        "author": "Khary_RG",
+        "author": "UtopiaWalls App",
 	"collections": "Temporada",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "CandyCane Dark",
         "downloadable": false,
 	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_candycanedark.png"
 }, {
-	"author": "Galahad WPX",
-	"collections": "Abstract",
+	"author": "WaifuPX App",
+	"collections": "WPX",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
-	"name": "Shape Hand",
-	"thumbnail": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shape_hand.png",
-	"url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shape_hand.png"
+	"name": "Night Shine",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/MoeMoe/AG22/wpx_03.jpg",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/MoeMoe/AG22/wpx_03.jpg"
 }]

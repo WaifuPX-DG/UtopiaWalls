@@ -41,4 +41,19 @@
 	"name": "My Floral 2",
 	"thumbnail": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/my_floral2.png",
 	"url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/my_floral2.png"
+}, {
+	"author": "WaifuPX App",
+	"collections": "WPX Art",
+	"downloadable": true,
+	"name": "Art 00",
+	"thumbnail": "https://raw.githubusercontent.com/dg-encrypt/dg.data/main/Main/Encrypt/Wll/Jl/wpx_art_th.jpg",
+	"url": "https://raw.githubusercontent.com/dg-encrypt/dg.data/main/Main/Encrypt/Wll/Jl/wpx_art.jpg"
+}, {
+	"author": "WaifuPX App",
+	"collections": "Takt Op. Destiny",
+	"copyright": "Takt Op. Destiny",
+	"downloadable": true,
+	"name": "Destiny",
+	"thumbnail": "https://raw.githubusercontent.com/dg-encrypt/dg.data/main/Main/Encrypt/Wll/Enero/wpx_destiny_th.jpg",
+	"url": "https://raw.githubusercontent.com/dg-encrypt/dg.data/main/Main/Encrypt/Wll/Enero/wpx_destiny.jpg"
 }]

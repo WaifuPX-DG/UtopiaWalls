@@ -56,4 +56,18 @@
 	"name": "Destiny",
 	"thumbnail": "https://raw.githubusercontent.com/dg-encrypt/dg.data/main/Main/Encrypt/Wll/Enero/wpx_destiny_th.jpg",
 	"url": "https://raw.githubusercontent.com/dg-encrypt/dg.data/main/Main/Encrypt/Wll/Enero/wpx_destiny.jpg"
+}, {
+        "author": "UtopiaWalls App",
+	"collections": "Floral",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Leaf Material",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Ag22/my5.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Ag22/my5.png"
+}, {
+	"author": "UtopiaWalls App",
+	"collections": "Floral,Amoled",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Fressia OLED",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my22/utopia_fressia_th.png",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my22/utopia_fressia.png"
 }]

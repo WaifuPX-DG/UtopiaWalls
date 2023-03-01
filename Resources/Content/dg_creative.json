@@ -1,5 +1,12 @@
 [{
         "author": "Galahad WPX",
+	"collections": "Floral",
+	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+	"name": "Tonal Leaf",
+        "downloadable": false,
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Mz23/sweet_leaf.png"
+}, {
+        "author": "Galahad WPX",
 	"collections": "Stock",
 	"copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
 	"name": "Pixel 7 Pro",

@@ -1,6 +1,38 @@
 [
   {
     "author": "Khary_RG",
+    "collections": "Minimal",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Constellations",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my23/constellations.png"
+  },
+  {
+    "author": "Galahad WPX",
+    "collections": "Minimal",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Scribble",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my23/scribble.png"
+  },
+  {
+    "author": "Google",
+    "collections": "Earth",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Earth",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my23/earth1.png"
+  },
+  {
+    "author": "Google",
+    "collections": "Earth",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Earth 2",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/my23/earth2.png"
+  },
+  {
+    "author": "Khary_RG",
     "collections": "Floral",
     "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
     "name": "Anthurium",

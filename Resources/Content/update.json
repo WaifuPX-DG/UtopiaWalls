@@ -1,6 +1,70 @@
 [
   {
     "author": "Khary_RG",
+    "collections": "Material",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Material Leaf Tropical",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/tropical.png"
+  },
+  {
+    "author": "Galahad_WPX",
+    "collections": "Material",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Material Leaf Yellow",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/leaf.png"
+  },
+  {
+    "author": "Galahad_WPX",
+    "collections": "Abstract",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Pattern",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/pattern.png"
+  },
+  {
+    "author": "Galahad_WPX",
+    "collections": "Minimal",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Sense",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/sense.png"
+  },
+  {
+    "author": "Khary_RG",
+    "collections": "Floral",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Leaf Paper",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/letter.png"
+  },
+  {
+    "author": "Galahad WPX",
+    "collections": "Amoled",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Floral Oled",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/floled.png"
+  },
+  {
+    "author": "Khary_RG",
+    "collections": "Minimal",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Flowers Oleo",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/oleo.png"
+  },
+  {
+    "author": "Khary_RG",
+    "collections": "Minimal",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "Flowers Oleo",
+    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jun23/oleo1.png"
+  },
+  {
+    "author": "Khary_RG",
     "collections": "Minimal",
     "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
     "name": "Constellations",
